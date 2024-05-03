@@ -3,48 +3,48 @@
     "rideName": "Thunderbolt Express",
     "queueTime": "45",
     "rideType": "Thrill Ride",
-    "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
+    "ridePic": "https://r-hands.github.io/roberts_rodeo/thunderbolt_express.jpg"
   },
   {
     "rideName": "Whirlwind Whirligig",
     "queueTime": "10",
     "rideType": "Family Ride",
-    "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
+    "ridePic": "https://r-hands.github.io/roberts_rodeo/whirlwind_whirligig.jpg"
   },
   {
     "rideName": "Phantom Plunge",
     "queueTime": "30",
     "rideType": "Family Ride",
-    "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
+    "ridePic": "https://r-hands.github.io/roberts_rodeo/phantom_plunge.jpg"
   },
   {
     "rideName": "Serenity Scape",
     "queueTime": "5",
     "rideType": "Themed Garden",
-    "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
+    "ridePic": "https://r-hands.github.io/roberts_rodeo/serenity_scape.jpg"
   },
   {
     "rideName": "Floral Fusion",
     "queueTime": "10",
     "rideType": "Themed Garden",
-    "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
+    "ridePic": "https://r-hands.github.io/roberts_rodeo/floral_fusion.jpg"
   },
   {
     "rideName": "Tranquil Terrace",
     "queueTime": "10",
     "rideType": "Themed Garden",
-    "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
+    "ridePic": "https://r-hands.github.io/roberts_rodeo/tranquil_terrace.jpg"
   },
   {
     "rideName": "Galactic Glider",
     "queueTime": "60",
-    "rideType": "Family Ride",
-    "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
+    "rideType": "Thrill Ride",
+    "ridePic": "https://r-hands.github.io/roberts_rodeo/galactic_glider.jpg"
   },
   {
     "rideName": "Dizzy Drop",
     "queueTime": "25",
     "rideType": "Thrill Ride",
-    "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
+    "ridePic": "https://r-hands.github.io/roberts_rodeo/dizzy_drop.jpg"
   }
 ]
