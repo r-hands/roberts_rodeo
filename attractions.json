@@ -1,0 +1,50 @@
+[
+  {
+    "rideName": "Thunderbolt Express",
+    "queueTime": 45,
+    "rideType": "Thrill Ride",
+    "ridePic": "https://example.com/thunderbolt_express.jpg"
+  },
+  {
+    "rideName": "Whirlwind Whirligig",
+    "queueTime": 10,
+    "rideType": "Family Ride",
+    "ridePic": "https://example.com/whirlwind_whirligig.jpg"
+  },
+  {
+    "rideName": "Phantom Plunge",
+    "queueTime": 30,
+    "rideType": "Family Ride",
+    "ridePic": "https://example.com/phantom_plunge.jpg"
+  },
+  {
+    "rideName": "Serenity Scape",
+    "queueTime": 5,
+    "rideType": "Themed Garden",
+    "ridePic": "https://example.com/serenity_scape.jpg"
+  },
+  {
+    "rideName": "Floral Fusion",
+    "queueTime": 10,
+    "rideType": "Themed Garden",
+    "ridePic": "https://example.com/floral_fusion.jpg"
+  },
+  {
+    "rideName": "Tranquil Terrace",
+    "queueTime": 10,
+    "rideType": "Themed Garden",
+    "ridePic": "https://example.com/tranquil_terrace.jpg"
+  },
+  {
+    "rideName": "Galactic Glider",
+    "queueTime": 60,
+    "rideType": "Family Ride",
+    "ridePic": "https://example.com/galactic_glider.jpg"
+  },
+  {
+    "rideName": "Dizzy Drop",
+    "queueTime": 25,
+    "rideType": "Thrill Ride",
+    "ridePic": "https://example.com/dizzy_drop.jpg"
+  }
+]
