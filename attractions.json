@@ -5,6 +5,7 @@
     "rideType": "Thrill Ride",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
     "ridePic": "https://r-hands.github.io/roberts_rodeo/thunderbolt_express.jpg"
+    "description": "Experience the exhilarating Thunderbolt Express! Get ready for twists, turns, and drops that will leave you breathless. This high-speed coaster is not for the faint-hearted."
   },
   {
     "rideName": "Whirlwind Whirligig",
@@ -12,6 +13,7 @@
     "rideType": "Family Ride",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
     "ridePic": "https://r-hands.github.io/roberts_rodeo/whirlwind_whirligig.jpg"
+    "description": "Join the fun on the Whirlwind Whirligig! This classic family ride offers a whirlwind of excitement for riders of all ages. Enjoy the gentle spins and laughter-filled moments."
   },
   {
     "rideName": "Phantom Plunge",
@@ -19,6 +21,7 @@
     "rideType": "Family Ride",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
     "ridePic": "https://r-hands.github.io/roberts_rodeo/phantom_plunge.jpg"
+    "description": "Embark on a thrilling adventure on the Phantom Plunge! Brave the twists and turns of this water ride as you plunge into the unknown. Hold on tight for a splash-tastic experience!"
   },
   {
     "rideName": "Serenity Scape",
@@ -26,6 +29,7 @@
     "rideType": "Themed Garden",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
     "ridePic": "https://r-hands.github.io/roberts_rodeo/serenity_scape.jpg"
+    "description": "Escape to the tranquil Serenity Scape! Immerse yourself in the beauty of nature as you stroll through lush gardens and serene landscapes. Find peace and relaxation in every corner."
   },
   {
     "rideName": "Floral Fusion",
@@ -33,6 +37,7 @@
     "rideType": "Themed Garden",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
     "ridePic": "https://r-hands.github.io/roberts_rodeo/floral_fusion.jpg"
+    "description": "Discover the vibrant Floral Fusion! Experience a burst of color as you wander through enchanting gardens filled with blooming flowers and captivating scents. Let your senses come alive!"
   },
   {
     "rideName": "Tranquil Terrace",
@@ -40,6 +45,7 @@
     "rideType": "Themed Garden",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
     "ridePic": "https://r-hands.github.io/roberts_rodeo/tranquil_terrace.jpg"
+    "description": "Unwind at the Tranquil Terrace! Relax in the serenity of this peaceful garden oasis. Take a moment to rejuvenate your mind, body, and soul amidst the beauty of nature."
   },
   {
     "rideName": "Galactic Glider",
@@ -48,6 +54,7 @@
     "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
     "rideType": "Thrill Ride",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/galactic_glider.jpg"
+    "description": "Blast off on the Galactic Glider! Prepare for an out-of-this-world adventure as you soar through space on this thrilling ride. Hold on tight as you dodge asteroids and navigate cosmic twists!"
   },
   {
     "rideName": "Dizzy Drop",
@@ -55,5 +62,6 @@
     "rideType": "Thrill Ride",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/Luna_Park_Melbourne_scenic_railway.jpg"
     "ridePic": "https://r-hands.github.io/roberts_rodeo/dizzy_drop.jpg"
+    "description": "Take the plunge on the Dizzy Drop! Brace yourself for a heart-pounding freefall experience that will leave you dizzy with excitement. Are you ready to conquer the ultimate drop?"
   }
 ]
