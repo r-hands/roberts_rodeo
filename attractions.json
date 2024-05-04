@@ -32,7 +32,7 @@
     "queueTime": "10",
     "rideType": "Themed Garden",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/floral_fusion.jpg",
-    "description": "Discover the vibrant Floral Fusion! Experience a burst of color as you wander through enchanting gardens filled with blooming flowers and captivating scents. Let your senses come alive!"
+    "description": "Discover the vibrant Floral Fusion! Experience a burst of color as you wander through enchanting gardens filled with blooming flowers and captivating scents."
   },
   {
     "rideName": "Tranquil Terrace",
@@ -53,6 +53,6 @@
     "queueTime": "25",
     "rideType": "Thrill Ride",
     "ridePic": "https://r-hands.github.io/roberts_rodeo/dizzy_drop.jpg",
-    "description": "Take the plunge on the Dizzy Drop! Brace yourself for a heart-pounding freefall experience that will leave you dizzy with excitement. Are you ready to conquer the ultimate drop?"
+    "description": "Take the plunge on the Dizzy Drop! Brace yourself for a heart-pounding freefall experience that will leave you dizzy with excitement."
   }
 ]
